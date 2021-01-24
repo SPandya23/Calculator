@@ -2,11 +2,6 @@ package Spandya;
 
 import javax.swing.*;
 
-import java.awt.Color;
-import java.awt.FlowLayout;
-import java.awt.GridLayout;
-import java.awt.event.*;
-
 public class calc {
 	
 	public static void main(String[] args)
